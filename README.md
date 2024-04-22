@@ -1,1 +1,1 @@
-# MOOC.fiJavaProgramming
+# MOOC.fi Java Programming I
